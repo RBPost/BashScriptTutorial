@@ -10,3 +10,6 @@ helloWorld.sh
 
 myCopy.sh
   This takes two arguements and copies and replaces arguement 2 with arguement 1
+
+defaultVariables.sh
+  This script uses some default built in variables ot gain useful info.
